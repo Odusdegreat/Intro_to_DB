@@ -1,2 +1,2 @@
--- Show the full description of the Books table
-SHOW COLUMNS FROM Books;
+-- task_4.sql
+SHOW FULL COLUMNS FROM books;
